@@ -1,0 +1,6 @@
+com\mycompany\ejercicio2\Ejercicio2.class
+entidades\Pelicula.class
+entidades\Sala.class
+entidades\Asiento.class
+entidades\Persona.class
+servicios\ServicioCine.class
